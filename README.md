@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @Joy-Hakerized
-- 👀 I’m interested in cloud services
-- 🌱 I’m currently learning databases
-- 💞️ I’m looking to collaborate on java projects
-- 📫 How to reach me insta: joy_fantome
-- 😄 Pronouns: jack junior
+- 👀 Sometimes I build fine repos and contribute
 - ⚡ GET SET GO ....
 
 <!---
