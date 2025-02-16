@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joy-Hakerized
-- 👀 Sometimes I build fine repos and contribute
+- 👀 Just landed , soon going to catch up 
 - ⚡ GET SET GO ....
 
 <!---
